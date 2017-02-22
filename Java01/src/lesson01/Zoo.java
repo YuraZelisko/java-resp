@@ -44,6 +44,7 @@ public class Zoo {
 				
 		
 				System.out.println("you have same animal");
+				System.out.println("enter 4 for show all animlas");
 			}
 			else
 			{
