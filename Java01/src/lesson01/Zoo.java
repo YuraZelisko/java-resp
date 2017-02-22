@@ -17,6 +17,7 @@ public class Zoo {
 		System.out.println("enter 4 for show all animlas");
 		
 		String choise = scanner.next();
+		System.out.println("enter 4 for show all animlas");
 
 		while (work == true){
 		
